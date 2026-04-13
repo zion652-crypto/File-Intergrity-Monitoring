@@ -1,0 +1,13 @@
+# Python version requirement
+python>=3.8
+
+# Uses only standard library modules:
+# argparse
+# hashlib
+# json
+# os
+# logging
+# smtplib
+# concurrent.futures
+# email
+# pathlib
