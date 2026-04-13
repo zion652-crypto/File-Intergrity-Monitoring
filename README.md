@@ -29,15 +29,6 @@ How It Works
 
 ---
 
-Project Structure
-
-fim/
-├── fim_guard.py
-├── config.json
-├── requirements.txt
-├── README.md
-
----
 
 Requirements
 
